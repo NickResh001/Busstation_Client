@@ -1,0 +1,23 @@
+﻿.settlement {
+    font-size: large;
+}
+
+.settlementRegion {
+    padding: 10px;
+}
+
+.primary-button{
+    background-color: var(--dd-aqua-color);
+    float: right;
+  }
+  .primary-button:hover{
+    background-color: var(--d-aqua-color) !important;
+  }
+  .primary-button:active{
+    background-color: var(--m-aqua-color) !important;
+    transition: 50ms !important;
+  }
+
+.header-for-settlements{
+    margin-bottom: 30px;
+}

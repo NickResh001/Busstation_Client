@@ -1,0 +1,66 @@
+:root{
+    --lll-aqua-color: #d4e2e3;
+    --l-aqua-color: #76dbdf;
+    --m-aqua-color: #3e979a;
+    --md-aqua-color: #2e7678;
+    --d-aqua-color: #0c4142;
+    --dd-aqua-color: #093738;
+  }
+
+/* 
+.my-carousel{
+    background-color: var(--dd-aqua-color);
+} */
+.carousel-slip-1{
+    background-image: url('https://www.ranepa.ru/upload/iblock/9cc/5.jpg');
+    height: 500px;
+    color: var(--dd-aqua-color);
+    line-height: 80%;
+    text-align: center;
+    background-size: cover;
+    padding-top: 200px;
+    font-size: 64px;
+    font-weight: bold;
+    overflow: hidden;
+}
+.carousel-slip-2{
+    background-image: url('https://www.wealthmanagement.com/sites/wealthmanagement.com/files/uploads/2016/09/willywonka.jpg');
+    height: 500px;
+    color: var(--dd-aqua-color);
+    line-height: 80%;
+    text-align: center;
+    background-size: cover;
+    padding-top: 200px;
+    font-size: 64px;
+    font-weight: bold;
+    overflow: hidden;
+}
+.carousel-slip-3{
+    background-image: url('https://i.imgur.com/WS9MwRN.png');
+    height: 500px;
+    color: var(--lll-aqua-color);
+    line-height: 80%;
+    text-align: center;
+    background-size: cover;
+    padding-top: 200px;
+    font-size: 64px;
+    font-weight: bold;
+    overflow: hidden;
+}
+.carousel-slip-4{
+    background-image: url('https://cdn.shazoo.ru/242078_kuO9yFqvCj_rutger.jpg');
+    height: 500px;
+    color: var(--lll-aqua-color);
+    line-height: 80%;
+    text-align: center;
+    background-size: cover;
+    padding-top: 200px;
+    font-size: 64px;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+.slick-slider{
+    background-color: var(--dd-aqua-color);
+    border-radius: 20px;
+}
